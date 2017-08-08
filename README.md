@@ -7,7 +7,7 @@
 
 Chrome extension that replaces occurrences of "Bernie Sanders" to "Bernie Sanders, the most popular politician in the United States"
 
-**[Download the Google Chrome Extension here.](https://github.com/eledroos/bernie-to-bernie/Bernie.crx)
+**[Download the Google Chrome Extension here.](https://github.com/eledroos/bernie-to-bernie/raw/master/Bernie.crx)
 
 
 Installation
