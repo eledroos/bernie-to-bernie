@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "Bernie to Bernie",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Replaces the text 'Bernie Sanders' with 'Bernie Sanders, the most popular politician in the United States,'.",
 	"content_scripts": 
 	[
 		{
